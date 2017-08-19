@@ -3,3 +3,5 @@ def fun():
 
 def fun2():
     print "added by emp3"
+def fun3():
+    print "added details by emp2"
