@@ -1,0 +1,14 @@
+link to download a file:  https://www.continuum.io/downloads
+
+windows:
+will get the .exe file double click on it.
+Note: you need to select one check box to add the anconda path to environment variables.
+
+linux:
+bash /filepath/filename
+enter "yes" for every yes/no prompt.
+
+
+Type: python -> for python prompt
+      ipython -> for ipython prompt
+      ipython notebook -> for ipython notebook
